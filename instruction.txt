@@ -1,0 +1,7 @@
+Project Name: Rockstar
+
+1.press D for guitarist to play and dancers to dance
+2.mouse-left for playing song1
+3.mouse-right for playing song2
+4.up-down-left-right buttons for moving the guitarist to the directions accordingly
+5.press T for movements of guitarist and dancers to stop.
